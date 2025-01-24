@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "390301285614",
+    "project_id": "ferreteriacastrejon",
+    "storage_bucket": "ferreteriacastrejon.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390301285614:android:e4a58e682f75e2f87147ff",
+        "android_client_info": {
+          "package_name": "com.example.ferreteriacastrejon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqITwJURbqS7vBbmrYYq4pA323oorWJiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
